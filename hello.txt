@@ -1,2 +1,1 @@
-bakka
-hello world ;
+gak ada
